@@ -136,4 +136,4 @@ console.log(person['children'][2]['name']);
 console.log(person.children[2]['name']);
 console.log(person['children'][2].name);
 console.log(person.children[2].name);
-console.log(person.children.length);
+console.log(person.children.length);npm
