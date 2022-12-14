@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "namu_darbai": "nodemon ./js/namu-darbai",
     "if": "nodemon ./js/09-if.js",
     "function": "nodemon ./js/08-function.js",
     "object": "nodemon ./js/07-object.js",
