@@ -49,3 +49,11 @@ abcString += abc[5] + separator;
 abcString += abc[6] + ending;
 
 console.log(abcString);
+
+const marks = [1, 2, 3, 4, 5];
+const marksType = typeof marks;
+console.log(marks, marksType);
+
+console.clear();
+const a = 7;
+const b = 7;
