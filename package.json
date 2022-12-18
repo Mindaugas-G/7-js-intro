@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "zeroFuel": "nodemon ./codewars/zeroFuel.js",
-    "shop": "nodemon ./tasks/shop.js",
     "for": "nodemon ./js/10-for.js",
     "namu_darbai": "nodemon ./js/namu-darbai",
     "if": "nodemon ./js/09-if.js",
@@ -17,6 +15,9 @@
     "strings": "nodemon ./js/03-strings.js",
     "numbers": "nodemon ./js/02-numbers.js",
     "labas": "nodemon ./js/01-labas.js",
+    "rangeSum": "nodemon ./tasks/rangeSum.js",
+    "shop": "nodemon ./tasks/shop.js",
+    "zeroFuel": "nodemon ./codewars/zeroFuel.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
