@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "rangeDivide": "nodemon ./tasks/rangeDivide.js",
     "reverseString": "nodemon ./tasks/reverseString.js",
     "for": "nodemon ./js/10-for.js",
     "namu_darbai": "nodemon ./js/namu-darbai",
