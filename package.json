@@ -8,6 +8,7 @@
     "digitCount": "nodemon ./tasks/digitCount.js",
     "rangeDivide": "nodemon ./tasks/rangeDivide.js",
     "reverseString": "nodemon ./tasks/reverseString.js",
+    "ternary": "nodemon ./js/11-ternary.js",
     "for": "nodemon ./js/10-for.js",
     "namu_darbai": "nodemon ./js/namu-darbai",
     "if": "nodemon ./js/09-if.js",
