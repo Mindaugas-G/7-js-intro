@@ -8,6 +8,7 @@
     "digitCount": "nodemon ./tasks/digitCount.js",
     "rangeDivide": "nodemon ./tasks/rangeDivide.js",
     "reverseString": "nodemon ./tasks/reverseString.js",
+    "filter": "nodemon ./js/18-filter.js",
     "map": "nodemon ./js/17-map.js",
     "loops": "nodemon ./js/16-loops.js",
     "rest": "nodemon ./js/15-rest.js",
