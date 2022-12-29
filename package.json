@@ -9,6 +9,7 @@
     "digitCount": "nodemon ./tasks/digitCount.js",
     "rangeDivide": "nodemon ./tasks/rangeDivide.js",
     "reverseString": "nodemon ./tasks/reverseString.js",
+    "kioskas": "nodemon ./kioskas/index.js",
     "class": "nodemon ./class/index.js",
     "reduce": "nodemon ./js/20-reduce.js",
     "sort": "nodemon ./js/19-sort.js",
