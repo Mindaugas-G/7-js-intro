@@ -1,8 +1,8 @@
 console.clear();
 
 function zeroFuel(distanceToPump, mpg, fuelLeft) {
-    const availableDistance = fuelLeft * mpg;
-    return distanceToPump <= availableDistance;
+  const availableDistance = fuelLeft * mpg;
+  return distanceToPump <= availableDistance;
 }
 
 console.log(zeroFuel(50, 25, 2), '-->', true);
@@ -12,8 +12,8 @@ console.log(zeroFuel(40, 10, 10), '-->', true);
 
 
 var summation = function (num) {
-    let suma = 0;
-  for (let i=1; i< num; i++) {
+  let suma = 0;
+  for (let i = 1; i < num; i++) {
     //0+1= 1
     //1+2 =3
     //3+3 = 6
@@ -24,10 +24,19 @@ var summation = function (num) {
     //28 + 8 = 36
     suma = suma + i
   }
-    if(num >= 1){
-       return suma
-    }
-    return 1
-    
-  
+  if (num >= 1) {
+    return suma
   }
+  return 1
+
+
+}
+console.clear;
+
+function combat(health, damage) {
+
+
+  let newhealth = health - damage
+
+  return newhealth;
+}
